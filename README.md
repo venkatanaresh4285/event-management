@@ -42,7 +42,7 @@ A full-stack MERN application for managing events, bookings, and event-related s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/eventease.git
+git clone [https://github.com//eventease.git](https://github.com/venkatanaresh4285/event-management](https://github.com/venkatanaresh4285/event-management)
 cd eventease
 ```
 
@@ -127,9 +127,7 @@ eventease/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -138,6 +136,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://eventease.netlify.app](https://eventease.netlify.app)
+Project Link: [https://event-management-lkrkah3ax-venkatanaresh4285s-projects.vercel.app/register](https://event-management-lkrkah3ax-venkatanaresh4285s-projects.vercel.app/register)
